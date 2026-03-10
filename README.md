@@ -19,7 +19,7 @@ Solucoes digitais com foco em performance, automacao e crescimento de negocio.
 - Produtos com IA aplicada (otimizacao de dados, automacao, assistentes)
 - Sites institucionais e landing pages orientadas a conversao
 
-## Portfolio tecnico (mapeado em `C:\\dev`)
+## Portfolio tecnico
 
 | Projeto                                                    | Tipo              | Stack principal                           | Foco                                                    |
 | ---------------------------------------------------------- | ----------------- | ----------------------------------------- | ------------------------------------------------------- |
