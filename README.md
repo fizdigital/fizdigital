@@ -1,7 +1,7 @@
 # Fiz Digital
 ### Criatividade, tecnologia e visão de negócio para transformar ideias em soluções digitais.
 
-![Capa Fiz Digital](https://firebasestorage.googleapis.com/v0/b/fizdigital-imagestudio.firebasestorage.app/o/capa_fizdigital.png?alt=media&token=1e5487de-b38a-4bb9-88e1-11d7b75431a6)
+![Capa Fiz Digital](https://firebasestorage.googleapis.com/v0/b/fizdigital-imagestudio.firebasestorage.app/o/capa_fizdigital.png?alt=media&token=ce6d876e-1ccc-42ee-94cd-8a4012c214cd)
 
 **Construímos plataformas, aplicativos e automações que conectam marcas, pessoas, dados e operações.**
 
